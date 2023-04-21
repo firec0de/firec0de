@@ -6,6 +6,9 @@
 - 🏫 I’m currently studying a Masters in Cybersecurity <a href="https://ulb.be" target="_blank">@ULB</a>
 - 📫 How to reach me <a href="https://twitter.com/ernandomyrtaj" target="_blank">Twitter</a>/<a href="mailto:ernando.myrtaj@gmail.com" target="_blank">E-mail</a>
 
+Skills: Python, Java, PHP, SQL, HTML & CSS, VBScript, Bash, Linux, Recon, Social Engineering etc ...
+
+
 <!---
 firec0de/firec0de is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
