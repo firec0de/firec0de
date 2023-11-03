@@ -2,7 +2,8 @@
 - 🤺 Finalist and Top 10 <a href="https://platform.cybersecuritychallenge.be/scoreboard" target="_blank">@CSCBE</a> Qualifiers 
 - 🏆 I'm a Software Engineering graduate from <a href="https://cit.edu.al" target="_blank">@CIT</a>
 - 👀 I’m interested in Cybersecurity, Malware, Poc, CVEs, CTFs etc...
-- 🌱 I’m currently training for eJPTv2 Certification
+- 🥇 Certificates: <a href="https://certs.ine.com/66b8423f-7a99-4556-8f78-da4f7964fd61" target="_blank">eJPTv2</a>
+- 📜 I’m currently training for OSCP
 - 🏫 I’m currently studying a Masters in Cybersecurity <a href="https://ulb.be" target="_blank">@ULB</a>
 - 📫 How to reach me <a href="https://twitter.com/ernandomyrtaj" target="_blank">Twitter</a>/<a href="mailto:ernando.myrtaj@gmail.com" target="_blank">E-mail</a>
 
