@@ -6,6 +6,7 @@
 - 📜 I’m currently training for OSCP
 - 🏫 I’m currently studying a Masters in Cybersecurity <a href="https://ulb.be" target="_blank">@ULB</a>
 - 📫 How to reach me <a href="https://twitter.com/ernandomyrtaj" target="_blank">Twitter</a>/<a href="mailto:ernando.myrtaj@gmail.com" target="_blank">E-mail</a>
+- 🌐 Take a look at my <a href="https://ernandomyrtaj.com" target="_blank">Resume!</a>
 
 Skills: Python, Java, PHP, SQL, HTML & CSS, VBScript, Bash, Linux, Recon, Social Engineering etc ...
 
