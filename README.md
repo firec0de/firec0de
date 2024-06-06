@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @firec0de 
-- 🤺 Finalist and Top 10 <a href="https://platform.cybersecuritychallenge.be/scoreboard" target="_blank">@CSCBE</a> Qualifiers 
+- 🤺 Finalist and Top 10 <a href="https://platform.cybersecuritychallenge.be/scoreboard" target="_blank">@CSCBE</a> 
 - 🏆 I'm a Software Engineering graduate from <a href="https://cit.edu.al" target="_blank">@CIT</a>
 - 👀 I’m interested in Cybersecurity, Malware, Poc, CVEs, CTFs etc...
 - 🥇 Certificates: <a href="https://certs.ine.com/66b8423f-7a99-4556-8f78-da4f7964fd61" target="_blank">eJPTv2</a>
